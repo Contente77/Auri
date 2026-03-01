@@ -8715,6 +8715,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"react-native-uuid@npm:^2.0.3":
+  version: 2.0.3
+  resolution: "react-native-uuid@npm:2.0.3"
+  checksum: 10c0/d94bccc28936c2dea081ab404f90b0c968092013af4d428b8e74bf407d6098ad5410914f77a903ad1296cce364fc85d27d8dfd70d22ec48d8cf1b7edc8803a8d
+  languageName: node
+  linkType: hard
+
 "react-native-web@npm:^0.21.0":
   version: 0.21.2
   resolution: "react-native-web@npm:0.21.2"
@@ -8938,6 +8945,7 @@ __metadata:
     react-native-safe-area-context: "npm:~5.6.0"
     react-native-screens: "npm:~4.16.0"
     react-native-svg: "npm:15.12.1"
+    react-native-uuid: "npm:^2.0.3"
     react-native-web: "npm:^0.21.0"
     react-native-worklets: "npm:0.5.1"
     react-test-renderer: "npm:19.1.0"
